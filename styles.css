@@ -3,7 +3,7 @@
     src: url(Cinzel-Black.ttf);
 }
 
-.top{
+*{
     text-align: center;
     color: aqua;
 }
