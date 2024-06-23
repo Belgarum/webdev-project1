@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Cinzel;
+    src: url(Cinzel-Black.ttf);
+}
+
+h1{
+    font-family: Cinzel;
+}
