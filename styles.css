@@ -3,7 +3,8 @@
     src: url(Cinzel-Black.ttf);
 }
 
-*{
+.top{
     font-family: Cinzel;
     text-align: center;
+    color: aqua;
 }
